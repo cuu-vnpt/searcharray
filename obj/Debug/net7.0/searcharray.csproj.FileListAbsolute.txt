@@ -1,0 +1,15 @@
+/Users/macos/Desktop/Operator/searcharray/bin/Debug/net7.0/searcharray
+/Users/macos/Desktop/Operator/searcharray/bin/Debug/net7.0/searcharray.deps.json
+/Users/macos/Desktop/Operator/searcharray/bin/Debug/net7.0/searcharray.runtimeconfig.json
+/Users/macos/Desktop/Operator/searcharray/bin/Debug/net7.0/searcharray.dll
+/Users/macos/Desktop/Operator/searcharray/bin/Debug/net7.0/searcharray.pdb
+/Users/macos/Desktop/Operator/searcharray/obj/Debug/net7.0/searcharray.csproj.AssemblyReference.cache
+/Users/macos/Desktop/Operator/searcharray/obj/Debug/net7.0/searcharray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macos/Desktop/Operator/searcharray/obj/Debug/net7.0/searcharray.AssemblyInfoInputs.cache
+/Users/macos/Desktop/Operator/searcharray/obj/Debug/net7.0/searcharray.AssemblyInfo.cs
+/Users/macos/Desktop/Operator/searcharray/obj/Debug/net7.0/searcharray.csproj.CoreCompileInputs.cache
+/Users/macos/Desktop/Operator/searcharray/obj/Debug/net7.0/searcharray.dll
+/Users/macos/Desktop/Operator/searcharray/obj/Debug/net7.0/refint/searcharray.dll
+/Users/macos/Desktop/Operator/searcharray/obj/Debug/net7.0/searcharray.pdb
+/Users/macos/Desktop/Operator/searcharray/obj/Debug/net7.0/searcharray.genruntimeconfig.cache
+/Users/macos/Desktop/Operator/searcharray/obj/Debug/net7.0/ref/searcharray.dll
